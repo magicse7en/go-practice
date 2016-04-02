@@ -2,7 +2,7 @@ package main
 
 import "os"
 import "fmt"
-import "littlemath"
+import "mymath"
 import "strconv"
 
 func Usage() {
